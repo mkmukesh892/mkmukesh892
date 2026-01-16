@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mukesh Kumar 👋<br><br>Frontend Engineer | Angular & JavaScript Specialist | UI/UX Focused<br><br>---<br><br>## 👨‍💻 About Me<br><br>I am a frontend developer with strong experience in building scalable web applications using Angular, JavaScript, and modern UI frameworks. I focus on clean architecture, performance optimization, and delivering maintainable enterprise-grade solutions.<br><br>- 🔹 Specialized in Angular (Angular 14+, AngularJS)<br>- 🔹 Strong experience with TypeScript, JavaScript, HTML, CSS, SCSS<br>- 🔹 Build tools: Grunt, npm<br>- 🔹 UI frameworks: Bootstrap, custom component systems<br>- 🔹 Experienced in large-scale enterprise applications<br>- 🔹 Passionate about code quality, performance, and developer experience<br><br>---<br><br>## 🛠 Tech Stack<br><br>**Frontend**<br>- Angular, AngularJS<br>- TypeScript, JavaScript (ES6+)<br>- HTML5, CSS3, SCSS<br><br>**Tools & Build**<br>- Node.js, npm<br>- Grunt<br>- Git, GitHub<br><br>**Libraries & Utilities**<br>- Lodash<br>- jQuery<br>- Compodoc<br><br>---<br><br>## 📌 Key Strengths<br><br>- Component-based architecture<br>- Custom UI component development<br>- Legacy system modernization<br>- Performance optimization<br>- Debugging complex production issues<br>- Clean, maintainable code practices<br><br>---<br><br>##  📫 Connect with Me<br><br>- GitHub: https://github.com/mkmukesh892<br>- LinkedIn: https://linkedin.com/in/mukeshkumarhzb<br><br>---<br><br>## 💡 Currently Working On<br><br>- Enhancing enterprise Angular applications<br>- Improving build pipelines and developer tooling<br>- UI performance and accessibility improvements<br><br>---<br><br>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mkmukesh892&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mkmukesh892&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkmukesh892&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-**mkmukesh892/mkmukesh892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+[![](https://visitcount.itsvg.in/api?id=mkmukesh892&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
+⭐ If you like my work, consider starring my repositories.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
